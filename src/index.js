@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+//the generated output of tailwind css -> can be changed in package.json
+import './css/tailwind.output.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

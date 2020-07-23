@@ -1,0 +1,6 @@
+/* Will be replaced by the actual code at build time */
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "tailwindcss/utilities";
